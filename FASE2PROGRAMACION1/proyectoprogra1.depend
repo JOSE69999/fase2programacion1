@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1714177999 source:c:\users\willys gabo\onedrive\documentos\prueba\proyectoprogra1\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+	<cstdlib>
+
+1716405877 source:c:\users\willys gabo\onedrive\documentos\prueba\proyectoprograaaa1\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
